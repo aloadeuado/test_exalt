@@ -276,7 +276,7 @@ extension ListRecipesViewModel: ListRecipesViewModelToView {
 - configuramos nuestra consola de firebase
 - agregamos los correos a los que queremos liberar la version qa en develop segun ambiente
 
-![firebasestorage](https://firebasestorage.googleapis.com/v0/b/pruebacyxtera-4bc18.appspot.com/o/Captura%20de%20Pantalla%202023-02-10%20a%20la(s)%203.53.02%20p.m..png?alt=media&token=b5c1a480-e324-4c66-a6dc-20a50980d474)
+![firebasestorage](https://firebasestorage.googleapis.com/v0/b/testmeli-e8ffc.appspot.com/o/Captura%20de%20pantalla%202023-06-08%20a%20la(s)%209.54.07%20p.m..png?alt=media&token=6cb49210-2770-43fc-959f-526ce1bfa738&_gl=1*3714xu*_ga*NjIzMzk4NzExLjE2ODI4NzIxNjU.*_ga_CW55HF8NVT*MTY4NjI3OTI1Ny4xMC4xLjE2ODYyNzkyNzkuMC4wLjA.)
 
 - y cada vez que hagamos un pull request a nuestra rama qa tendremos automáticamente un build con las características de workflow ya construidas
 
