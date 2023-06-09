@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>URL_LIST_RECIPES</key>
+	<string>$(URL_LIST_RECIPES)</string>
+	<key>URL_DETAIL_RECIPES</key>
+	<string>$(URL_DETAIL_RECIPES)</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
