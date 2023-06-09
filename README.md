@@ -280,8 +280,6 @@ extension ListRecipesViewModel: ListRecipesViewModelToView {
 
 - y cada vez que hagamos un pull request a nuestra rama qa tendremos automáticamente un build con las características de workflow ya construidas
 
-![firebasestorage](https://firebasestorage.googleapis.com/v0/b/pruebacyxtera-4bc18.appspot.com/o/WhatsApp%20Image%202023-02-10%20at%203.45.49%20PM.jpeg?alt=media&token=a0e76c1d-fd1a-42cc-b45c-b2754cdd047f)
-
 
 
 ## Video demostrativo Lista Recetas
