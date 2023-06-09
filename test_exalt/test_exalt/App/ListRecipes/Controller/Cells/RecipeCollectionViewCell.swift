@@ -1,6 +1,6 @@
 //
 //  RecipeCollectionViewCell.swift
-//  test_empowermentlabs
+//  test_exalt
 //
 //  Created by iMac on 10/02/23.
 //
